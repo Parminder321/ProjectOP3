@@ -1,0 +1,4 @@
+dit zijn de datasets voor het project.
+
+http://rotterdamopendata.nl/dataset/parkeergarages-gemeente-rotterdam
+http://rotterdamopendata.nl/dataset/p-r-locaties-en-gebruik
