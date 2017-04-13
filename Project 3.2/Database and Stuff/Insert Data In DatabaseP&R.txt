@@ -1,0 +1,108 @@
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Barendrecht NS', '4,551388', '51.990092', '380', '2uur gratis');
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Berkel Westpolder', '4.454525', '51.990092', '177', '2uur gratis');
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Beverwaard',  '4.566433', '51.884115', '508', '2uur gratis');
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Capelle De Terp', '4.600301', '51.936716', '230' , '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Capelle Schollevaar', '4,582218', '51,954312', '203', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Hoogvliet Centrum', '4,365577', '51,85993', '229', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Hoogvliet Tussenwater', '4,377182', '51,862948', '62', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Hoogvliet Zalmplaat', '4,362952', '51,854685', '22', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Kralingse Zoom', '4,532948', '51,9207', '1700', '3.50Euro voor 2uur' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Krimpen a/d Ijssel', '4,590693', '51,912423', '61', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Lombardijen', '4,529134', '51,880622', '82', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Meijersplein', '4,458984', '51,956246', '500', '2uur gratis' );
+
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Melanchtonweg', '4,464713', '51,949407', '80', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Nesselande', '4,586209', '51,979887', '61', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Noorderhelling', '4,534649', '51,895166', '322', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Pernis', '4,382182', '51,885084', '33', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Poortugaal', '4,394987', '51,861253', '171', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Rhoon', '4,4194244', '51,861253', '171', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Ridderkerk Oostendam/Oudelande', '4,628295', ' 51,859234', '247', '4euro voor 2uur' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Ridderkerk Fast Ferry', '4,618585', '51,886306', '151', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Rodenrijs', '4,460075', '51,975356', '168', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Rotterdam Alexander', '4,549904', '51,952345', '473', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Schenkel', '4,56414', '51,931531', '102', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Schiedam Nieuwland', '4,382134', '51,92245', '120', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Schiedam Schieveste', '4,409522', '51,922184', '250', '3.66euro voor 2uur' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Schiedam Vijfsluizen', '4,372381', '51,908339', '88', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Slinge', '4,476787', '51,87261', '849', '3.50euro voor 2uur' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Spijkenisse Centrum', '4,333212', '51,845569', '269', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Spijkenisse Heemraadlaan', '4,33192', '51,83728', '245', '2uur gratis' );
+
+INSERT INTO park_and_ride (location_, x_wgs, y_wgs, capacity_, price_)
+VALUES ( 'Spijkenisse De Akkers', '4,317722', '51,833055', '326', '2uur gratis' );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

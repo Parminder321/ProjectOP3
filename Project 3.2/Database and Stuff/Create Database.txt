@@ -1,0 +1,18 @@
+CREATE TABLE Parking_lots(
+    Name_ TEXT,
+    Adress_ TEXT,
+    Capacity_ INT,
+    Opened_ TEXT,
+    Near_ TEXT,
+    Price_hr TEXT,
+    Price_Day_ TEXT,
+    Price_Night TEXT
+);    
+
+
+CREATE TABLE Park_And_Ride(
+	Location_ TEXT,
+    Coordinates TEXT,
+    Capacity_ TEXT,
+    Price_ INT
+);    

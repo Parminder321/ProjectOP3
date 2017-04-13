@@ -1,0 +1,99 @@
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Erasmus MC Wytemaweg', 'Wytemaweg 12', '330', '24hours 7days a week', 'Erasmus MC (Hospital)',
+'2.70euro first hour, then 1.35euro per 30min.', 'idem', 'idem' );  
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Erasmus MC Westzeedijk', 'Westzeedijk 361', '690', '24hours 7days a week', 'Erasmus MC (Hospital)',
+'2.70euro first hour, then 1.35euro per 30min.', 'idem', 'idem' );  
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage Museumpark', 'Museumpark 32', '1162', '24hours 7days a week', 'Erasmus MC (Hospital)',
+'2.00euro first 45min, then 1.00euro per 22min.', '24hr card 27.00euro', 'idem' );
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage Zuidplein', 'Twentestraat 10', '1400', '24hours 7days a week', 'Ahoy Rotterdam',
+'1.00euro per 22min. max 18.00euro a day', '18euro max', 'idem' );
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage Schouwburgplein', 'Schouwburgplein 22', '730', '24hours 7days a week', 'Pathe Theater',
+'0.50euro per 15min. max 28.00uro a day', '28euro max', '1.00euro per 60min' );
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage Slinge', 'Slinge 763', '849', '24hours 7days a week', 'Metro Slinge',
+'0.50euro per 18min. use OV for 2.00euro per parking', '17euro max', 'idem' );
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage Beverwaard', 'Edo Bergsmaweg 1', '508', '24hours 7days a week', '25min to center of the city',
+'Free parking', 'idem', 'idem' );
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage Schiedam Centrum', 'Broerveld 22', '280', '24hours 7days a week', 'Shopping Centre The Passage',
+'1hour free, then 0.50euro per 20min. max 15euro per day', 'idem', 'idem' );
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage Meijersplein', 'Fairoaksbaan', '500', '24hours 7days a week', '10min to center of the city',
+'Free parking', 'idem', 'idem' );
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage Weena', 'Karel Doormanweg 60', '88', '24hours 7days a week', '  ',
+'Free parking', 'idem', 'idem' );
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage Vijsluizen', 'Karel Doormanstraat 10', '480', '24hours 7days a week', '  ',
+'1.00euro per 16min, max 30euro per day', '5euro for 24hours', '1.00euro per 16min, 10euro max per night' );
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage Plaza/Casino', 'Kruisstraat 17', '470', '24hours 7days a week', '  ',
+'1.00euro per 20minmax 27euro per day', 'idem', 'idem' );
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage Kruiskade', 'Kruiskade 21', '275', '24hours 7days a week', '  ',
+'1.00euro per 27min max 30euro per day. Dagkaart 3hr = 6.50, 9hr = 18.50, 24hr = 21.00', 'idem', 'idem' );
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage Lijnbaan', 'Crispijnstraat 6', '540', '24hours 7days a week', '  ',
+'MON/THU 1.50euro for 30min, max 30euro a day. FRI/SUN 1.70euro for 30min, max 30euro a day.', 'idem', 'idem' );  
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage Bijenkorf', 'Aert van Nesstraat 16 ', '460', '24hours 7days a week', '  ',
+'2.00euro per 30min, max 30euro per day   ', 'idem', 'idem' );  
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage Beursplein', 'Aert van Nesstraat 16 ', '460', '24hours 7days a week', '  ',
+'2.00euro per 30min, max 30euro per day   ', 'idem', 'idem' );  
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage Oude-haven', 'Burg.van Walsumweg 718 ', '229', '24hours 7days a week', '  ',
+' 0.50euro per 15min, max 20euro per day', 'idem', '1.00euro per hour' );  
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage Kralingse Zoom', 'KRALINGSE ZOOM (METRO) 50, ', '1700', '24hours 7days a week', ' Metro ',
+' 0.50euro per 18min, max 17euro per day', 'idem', 'idem' );  
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage De Boompjes', 'Terwenakker 18, ', '623', '24hours 7days a week', '  ',
+' 0.50euro per 15min, max 28euro per day', 'idem', '1.00euro per 60min' );  
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage World Port Center', 'Wilhelminakade 981, ', '505', '24hours 7days a week', ' World Port Center ',
+' 2.50euro per 45min, max 25euro per day', 'idem', 'idem' ); 
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage Alexander', 'PRINS ALEXANDERLAAN 35, ', '473', '24hours 7days a week', ' ',
+' 0.50euro per 18min, max 17euro per day', 'idem', 'idem' ); 
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage Kiphof', 'Kipstraat 177, ', '339', '24hours 7days a week', ' ',
+' 0.50euro per 15min, max 20euro per day', 'idem', '1euro per 60min' ); 
+
+
+INSERT INTO PARKING_LOTS ( name_, adress_, capacity_, opened_, near_, price_hr, price_day_, price_night)
+VALUES ( 'Parkeergarage Capelsebrug', 'Capelsebrugpad 60, ', '430', '24hours 7days a week', ' Metro ',
+' Free parking', 'idem', 'idem' ); 
+
+
+
+
+
+
+
